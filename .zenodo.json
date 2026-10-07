@@ -1,0 +1,23 @@
+{
+  "title": "CorpuscularVortex: Vortex = Corpuscle = Field in One Object",
+  "description": "Unified model where vortex core, corpuscle, and field are one object. Charge equals circulation Γ, spin is ±1, mass is |Γ|. Includes magnetic field (Ampère), gravitational field, and 4 link types (STRONG, WEAK, EM, GRAV). In literature, vortex, particle, and field are separate — here they are one.",
+  "creators": [
+    {
+      "name": "Ziyavutdinov, Magomed Kamalovich",
+      "affiliation": "Independent Researcher",
+      "orcid": "0009-0005-9212-9921"
+    }
+  ],
+  "keywords": [
+    "vortex dynamics",
+    "corpuscular physics",
+    "unified field",
+    "particle physics",
+    "emergent structure",
+    "multi-agent systems"
+  ],
+  "license": "MIT",
+  "upload_type": "software",
+  "access_right": "open",
+  "language": "eng"
+}

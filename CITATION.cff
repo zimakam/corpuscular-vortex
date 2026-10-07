@@ -1,0 +1,14 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it."
+type: software
+title: "CorpuscularVortex: Vortex = Corpuscle = Field in One Object"
+version: 1.0.0
+date-released: 2026-09-18
+authors:
+  - family-names: "Ziyavutdinov"
+    given-names: "Magomed Kamalovich"
+    alias: "Zimaka"
+    email: "zimakam@gmail.com"
+    orcid: "https://orcid.org/0009-0005-9212-9921"
+license: MIT
+repository-code: "https://github.com/zimakam/corpuscular_vortex"
